@@ -1,6 +1,5 @@
 # 🔒 Pattern Lock
 
-<img src="https://i.ibb.co/hRHxnkFj/image-2025-06-23-11-51-40.png" alt="Mahmoud Kok" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
 
 Pattern Lock is a sleek and interactive Flutter-based lock screen built with modern UI principles, glassmorphism, and smooth animations. It uses the Bloc state management pattern to keep logic clean, scalable, and easy to customize.
 
